@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Despoina.</h1>
-<h3 align="center">Junior Data Scientist eager to tackle my next project.</h3>
+<h1 align="left">Hi 👋, I'm Despoina.</h1>
+<h3 align="left">Junior Data Scientist eager to tackle my next project.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sss" alt="sss" /></a> </p> -->
 
