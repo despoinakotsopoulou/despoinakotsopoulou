@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Despoina.</h1>
-<h3 align="center">A passionate data scientist from Greece.</h3>
+<h3 align="center">Junior Data Scientist eager to tackle my next project.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sss" alt="sss" /></a> </p> -->
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **a location/allocation project**
 
-- 📫 How to reach me **concatenate my username with @gmail.com**
+- 📫 How to reach me **despoinakotsopoulou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
