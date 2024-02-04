@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sss" alt="sss" /></a> </p> -->
 
-- 🌱 I’m currently learning **more about deep learning**
+- 🌱 I’m currently learning **Spanish**
 
 - 🤝 I’m looking for help with **a location/allocation project**
 
