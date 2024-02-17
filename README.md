@@ -3,7 +3,8 @@
 
 **Some of the technologies I have worked with**
 
--Data Analysis
+<sub>Smaller Data Analysis</sub>
+
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
