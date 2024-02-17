@@ -25,10 +25,7 @@
 ![Prefect](https://img.shields.io/badge/-Prefect-000000?style=flat&logo=prefect&logoColor=FF6F00)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B)
 
-**<sub>Generative AI</sub>**
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=flat&logo=openai&logoColor=0080FF)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=24292E)
-![LongChain](https://img.shields.io/badge/-LongChain-000000?style=flat&logo=example&logoColor=grey)
+
 
 
 
