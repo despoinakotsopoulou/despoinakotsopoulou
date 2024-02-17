@@ -3,27 +3,31 @@
 
 **Some of the technologies I have worked with**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
-
-<!--![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9) -->
-
-
-
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=despoinakotsopoulou&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=despoinakotsopoulou&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-
-⭐️ From [DespoinaKotsopoulou](https://github.com/despoinakotsopoulou)
+- [Python](https://www.python.org/)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [Jupyter](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [BigQuery](https://cloud.google.com/bigquery)
+- [Plotly](https://plotly.com/python/)
+- [Statsmodel](https://www.statsmodels.org/stable/index.html)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Google Colab](https://colab.research.google.com/)
+- [Hugging Face](https://huggingface.co/)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [Google Compute Engine](https://cloud.google.com/compute)
+- [Cloud Storage](https://cloud.google.com/storage)
+- [MLflow](https://mlflow.org/)
+- [Docker](https://www.docker.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Prefect](https://www.prefect.io/)
+- [Streamlit](https://streamlit.io/)
+- [ChatGPT](https://openai.com/chatgpt)
+- [GitHub Copilot](https://copilot.github.com/)
+- [LongChain](https://example.com/longchain)
 
 
 
