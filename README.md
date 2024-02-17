@@ -3,7 +3,8 @@
 
 **Some of the technologies I have worked with**
 
-Data Analysis/n
+-Data Analysis
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F37626)
@@ -14,19 +15,23 @@ Data Analysis/n
 ![BigQuery](https://img.shields.io/badge/-BigQuery-000000?style=flat&logo=googlecloud&logoColor=4285F4)
 ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat&logo=plotly&logoColor=3F4F75)
 
-Decision Science/n
+Decision Science
+
 ![Statsmodel](https://img.shields.io/badge/-Statsmodel-000000?style=flat&logo=statsmodels&logoColor=3F4F75)
 
-Machine Learning/n
+Machine Learning
+
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-000000?style=flat&logo=scikit-learn&logoColor=F7931E)
 
-Deep Learning/n
+Deep Learning
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras&logoColor=D00000)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat&logo=googlecolab&logoColor=F9AB00)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=flat&logo=huggingface&logoColor=FFAC3E)
 
-ML Engineering/n
+ML Engineering
+
 ![Google Compute Engine](https://img.shields.io/badge/-Google%20Compute%20Engine-000000?style=flat&logo=googlecloud&logoColor=4285F4)
 ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-000000?style=flat&logo=googlecloud&logoColor=4285F4)
 ![MLflow](https://img.shields.io/badge/-MLflow-000000?style=flat&logo=mlflow&logoColor=FF6F00)
@@ -35,7 +40,8 @@ ML Engineering/n
 ![Prefect](https://img.shields.io/badge/-Prefect-000000?style=flat&logo=prefect&logoColor=FF6F00)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B)
 
-Generative AI/n
+Generative AI
+
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=flat&logo=openai&logoColor=0080FF)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=24292E)
 ![LongChain](https://img.shields.io/badge/-LongChain-000000?style=flat&logo=example&logoColor=grey)
