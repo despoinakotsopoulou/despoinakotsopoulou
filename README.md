@@ -14,6 +14,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F37626)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy&logoColor=013243)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=EE4C2C)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=3776AB)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat&logo=seaborn&logoColor=3776AB)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-000000?style=flat&logo=googlecloud&logoColor=4285F4)
