@@ -3,11 +3,10 @@
 [![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
 
+Welcome, I'm Despoina!
 
 
-      
-
-<sub>Some of the technologies I have worked with</sub>
+Some of the technologies I have worked with
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
