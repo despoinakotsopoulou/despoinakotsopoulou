@@ -3,12 +3,7 @@
 
 
 
-
-
-
-[![Despoina Kotsopoulou](https://github.com/despoinakotsopoulou/despoinakotsopoulou/raw/main/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![Despoina Kotsopoulou](https://img.shields.io/badge/-Despoina%20Kotsopoulou-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Header](https://miro.medium.com/v2/resize:fit:786/format:webp/1*czcdGNhz6jvyxSRvmuxlSQ.gif)
 
 
 **Some of the technologies I have worked with**
