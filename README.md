@@ -1,9 +1,7 @@
 <sub>BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant. Recent Data Science & AI Engineer graduate by Le Wagon, Certified Data Scientist by IBM.</sub>
 
 
-
-
-![Header](https://miro.medium.com/v2/resize:fit:786/format:webp/1*czcdGNhz6jvyxSRvmuxlSQ.gif)
+[![Header](https://s3.ezgif.com/tmp/ezgif-3-bdab2be753.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 **Some of the technologies I have worked with**
