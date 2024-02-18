@@ -1,8 +1,15 @@
+<sub>BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant. Recent Data Science & AI Engineer graduate by Le Wagon, Certified Data Scientist by IBM.</sub>
+
+<sub>The "o" in my name is silent, and the stress is on the first syllable. The "De" has a "The" sound. Try saying "the spinach". Now transfer the stress to the article "THE spinach", connect the two words and remove the "ch" at the end; "THEspina". Here you got it :)</sub> 
+
+
+
+
+
 [![Despoina Kotsopoulou](https://github.com/despoinakotsopoulou/despoinakotsopoulou/raw/main/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![Despoina Kotsopoulou](https://img.shields.io/badge/-Despoina%20Kotsopoulou-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<sub>IBM Certified Data Scientist, a recent Data Science & AI Engineer graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant. </sub> 
 
 **Some of the technologies I have worked with**
 
