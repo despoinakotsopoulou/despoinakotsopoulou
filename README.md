@@ -1,4 +1,4 @@
-<sub>IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant.</sub>
+<sub>IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant of 4 years.</sub>
 
 [![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
@@ -7,7 +7,7 @@
 
       
 
-<sub>**Some of the technologies I have worked with**</sub>
+<sub>Some of the technologies I have worked with</sub>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
@@ -33,6 +33,10 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-000000?style=flat&logo=openai&logoColor=0080FF)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=24292E)
 ![LongChain](https://img.shields.io/badge/-LongChain-000000?style=flat&logo=example&logoColor=grey)
+
+
+
+
 
 
 
