@@ -2,7 +2,7 @@
 
 [![Despoina Kotsopoulou](https://img.shields.io/badge/-Despoina%20Kotsopoulou-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<sub>IBM Certified Data Scientist, a recent Data Science & AI Engineer graduate by Le Wagon. BSc Decision Scientist, X Research Assistant and Google Strategy Consultant</sub> 
+<sub>IBM Certified Data Scientist, a recent Data Science & AI Engineer graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant. </sub> 
 
 **Some of the technologies I have worked with**
 
