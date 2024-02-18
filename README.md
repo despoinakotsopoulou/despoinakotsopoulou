@@ -3,7 +3,11 @@
 [![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
 
-**Some of the technologies I have worked with**
+
+
+      
+
+<sub>**Some of the technologies I have worked with**</sub>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
@@ -33,4 +37,4 @@
 
 
 
-⭐️ From [DespoinaKotsopoulou](https://github.com/despoinakotsopoulou)
+⭐️ <sub>From [DespoinaKotsopoulou](https://github.com/despoinakotsopoulou)</sub>
