@@ -1,6 +1,6 @@
 <sub>BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant. Recent Data Science & AI Engineer graduate by Le Wagon, Certified Data Scientist by IBM.</sub>
 
-<sub>The "o" in my name is silent, and the stress is on the first syllable. The "De" has a "The" sound. Try saying "the spinach". Now transfer the stress to the article "THE spinach", connect the two words and remove the "ch" at the end; "THEspina". Here you got it :)</sub> 
+
 
 
 
