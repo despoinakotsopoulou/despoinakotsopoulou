@@ -1,6 +1,6 @@
 <sub>IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant and Research Assistant.</sub>
 
-[![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
+[![Header](profilelogo.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
 
 
