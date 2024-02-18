@@ -1,7 +1,6 @@
 <sub>BSc Decision Scientist, X Google Strategy Consultant, and Research Assistant. Recent Data Science & AI Engineer graduate by Le Wagon, Certified Data Scientist by IBM.</sub>
 
-
-[![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)
+[![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
 
 **Some of the technologies I have worked with**
