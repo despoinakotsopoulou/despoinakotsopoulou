@@ -6,7 +6,7 @@ IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. B
 
 
 
-Currently, testing Google's Gemini Generative AI and getting familiar with its documentation -despite the API region restrictions-, while building my portfolio and learning Spanish with intensive daily courses, followed by the latest intensive Data Science & AI Bootcamp I completed at Le Wagon in December. </sub>
+Currently, getting to know Google's Gemini Generative AI and its documentation -despite the API region restrictions-, while building my portfolio and learning Spanish with intensive daily courses. </sub>
 
 
 
