@@ -1,12 +1,17 @@
+
+# Hi, I'm Despoina!
 <sub>IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant and Research Assistant.</sub>
 
 [![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
 
-Hi, I'm Despoina. Welcome to my github profile.
+
+<sub>Currently, testing Google's Gemini Generative AI and getting familiar with its documentation -despite the API region restrictions-, while building my portfolio and learning Spanish with intensive daily courses, followed by the latest intensive Data Science & AI Bootcamp I completed at Le Wagon in December. </sub>
 
 
-<sub>Somme of the technologies I have worked with</sub>
+
+
+<sub>Some of the technologies I have worked with</sub>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
@@ -35,10 +40,10 @@ Hi, I'm Despoina. Welcome to my github profile.
 ![LongChain](https://img.shields.io/badge/-LongChain-000000?style=flat&logo=example&logoColor=grey)
 
 
-<sub>Currently, testing Google's Gemini Generative AI and getting familiar with its documentation -despite the API region restrictions-, while building my portfolio and taking intensive Spanish courses since the start of 2024! I'm already A2! </sub>
 
-You may find me on Linkdedin using despoina. 
 
+
+<sub>Let's connect on Linkedin!</sub> /despoina
 
 
 
