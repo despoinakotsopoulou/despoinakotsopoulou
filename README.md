@@ -3,7 +3,7 @@
 [![Header](profile.gif)](https://despoinakotsopoulou.github.io/despoinasportfolio.github.io/)  
 
 
-
+Hi, I'm Despoina. Welcome to my github profile.
 
 
 <sub>Somme of the technologies I have worked with</sub>
@@ -35,7 +35,9 @@
 ![LongChain](https://img.shields.io/badge/-LongChain-000000?style=flat&logo=example&logoColor=grey)
 
 
-<sub>Currently, testing Google's Gemini Generative AI and getting familiar with its documentation, while building my portfolio and taking intensive Spanish courses since the start of 2024!</sub>
+<sub>Currently, testing Google's Gemini Generative AI and getting familiar with its documentation -despite the API region restrictions-, while building my portfolio and taking intensive Spanish courses since the start of 2024! I'm already A2! </sub>
+
+You may find me on Linkdedin using despoina. 
 
 
 
