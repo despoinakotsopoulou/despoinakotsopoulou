@@ -5,7 +5,9 @@
 
 # Hi, I'm Despoina!
 
-BSc Decision Scientist with advanced mathematics, python programming and research skills. IBM Data Scientist and X Google Strategy Consultant with over a decade experience in diverse environments. Recently graduted from Le Wagon's Data Science and AI Bootcamp, equipped with comprehensive theoritical training and technical experience in dealing with real world problems.</sub>
+BSc Decision Scientist with advanced mathematics, python programming and research skills. IBM Data Scientist and X Google Strategy Consultant with over a decade experience in diverse environments.
+
+Recently graduted from Le Wagon's Data Science and AI Bootcamp, equipped with comprehensive theoritical training and technical experience in dealing with real world problems.</sub>
 
 Currently, I'm learning more about Google's Gemini Generative AI, experimenting with different open source software, reading ML books and studying online, while learning Spanish, and building my own Artificial Intelligence model. 
 
