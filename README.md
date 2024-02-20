@@ -1,17 +1,17 @@
-
-# Hi, I'm Despoina!
-IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant and Research Assistant.</sub>
+<sub>IBM Certified Data Scientist, a recent Data Science & AI graduate by Le Wagon. BSc Decision Scientist, X Google Strategy Consultant and Research Assistant.</sub>
 
 ![Header](profile.gif)
 
 
+# Hi, I'm Despoina!
 
-Currently, getting to know Google's Gemini Generative AI and its documentation -despite the API region restrictions-, while building my portfolio and learning Spanish with intensive daily courses. </sub>
+<sub> BSc Decision Scientist with advanced mathematics, python programming and research skills. IBM Data Scientist and X Google Strategy Consultant with over a decade experience in diverse environments. Recently graduted from Le Wagon's Data Science and AI Bootcamp, equipped with comprehensive theoritical training and technical experience in dealing with real world problems.</sub>
+
+<sub>Currently, I'm learning more about Google's Gemini Generative AI, experimenting with different open source software, reading ML books and studying online, while learning Spanish, and building my own Artificial Intelligence model. 
 
 
-
-
-Some of the technologies I have worked with</sub>
+  
+<sub>Software Proficiencies I've worked with: </sub>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=003B57)
@@ -43,7 +43,7 @@ Some of the technologies I have worked with</sub>
 
 
 
-<sub>Let's connect on Linkedin!</sub> /despoina
+<sub>Linkedin/in </sub> /despoina
 
 
 
